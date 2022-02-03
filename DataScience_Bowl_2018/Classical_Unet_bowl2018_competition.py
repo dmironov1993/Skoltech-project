@@ -1,3 +1,5 @@
+#https://www.kaggle.com/c/data-science-bowl-2018
+
 gpu_info = !nvidia-smi
 gpu_info = '\n'.join(gpu_info)
 if gpu_info.find('failed') >= 0:
