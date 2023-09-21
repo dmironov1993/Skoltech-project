@@ -1,0 +1,12 @@
+
+CLIENT_CPP: Line = 182 sticker_id is empty in Message class
+CLIENT_CPP: Line = 194 animation_id is empty in Message class
+
+CLIENT_CPP: Line = 182 sticker_id is empty in Message class
+CLIENT_CPP: Line = 194 animation_id is empty in Message class
+
+
+
+CLIENT_CPP: Line = 182 sticker_id is empty in Message class
+CLIENT_CPP: Line = 194 animation_id is empty in Message class
+
